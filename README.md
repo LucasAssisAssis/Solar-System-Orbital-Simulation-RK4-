@@ -1,2 +1,10 @@
-# Solar-System-Orbital-Simulation-RK4-
-A basic code that aims to simulate our solar system orbital dinamics trough a Runge-Kutta 4 integration. 
+## Numerical Solar System Simulator (RK4)
+This project aims to apply basic concepts regarding gravitational interactions on our Solar System by applying numerical methods such as Runge_Kutta4 and Verlet in order to compare their stability over time.
+
+## Base Equations
+Gravitational force between two bodies:
+$$\vec{F}_{21} = -G \frac{m_1 m_2}{|\vec{r}_{21}|^2} \hat{r}_{21}$$
+
+## Extensions
+* NumPy (Vector Calculus)
+* Matplotlib (Vizualization)
