@@ -3,7 +3,7 @@ This project aims to apply basic concepts regarding gravitational interactions o
 
 ## Base Equations
 Gravitational force between two bodies:
-$$\vec{F}_{21} = -G \frac{m_1 m_2}{|\vec{r}_{21}|^2} \hat{r}_{21}$$
+$ \vec{F}_{21} = -G \frac{m_1 m_2}{|\vec{r}_{21}|^2} \hat{r}_{21} $
 
 ## Extensions
 * NumPy (Vector Calculus)
