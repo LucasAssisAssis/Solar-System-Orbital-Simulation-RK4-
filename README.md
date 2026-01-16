@@ -2,7 +2,7 @@ Numerical Solar System Simulator (RK4)
 This project aims to apply basic concepts regarding gravitational interactions on our Solar System by applying numerical methods such as Runge_Kutta4 and Verlet in order to compare their stability over time.
 
 Base Equations
-Gravitational force between two bodies: $ \vec{F}{21} = -G \frac{m_1 m_2}{|\vec{r}{21}|^2} \hat{r}_{21} $
+Gravitational force between two bodies: $$ \vec{F}{21} = -G \frac{m_1 m_2}{|\vec{r}{21}|^2} \hat{r}_{21} $$
 
 Extensions
 NumPy (Vector Calculus)
