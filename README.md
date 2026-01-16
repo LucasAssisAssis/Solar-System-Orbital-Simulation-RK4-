@@ -1,5 +1,5 @@
 # Numerical Solar System Simulator (RK4)
-This project aims to apply basic concepts regarding gravitational interactions on our Solar System by applying numerical methods such as Runge_Kutta4 and Verlet in order to compare their stability over time.
+This project aims to apply basic concepts regarding gravitational interactions on our Solar System by applying the numerical method Runge_Kutta4 and evalutating how the energy is dissipated meanwhile determining the percentual error for an specific simulation time.
 
 ## Base Equation
 - Gravitational force between two bodies:
